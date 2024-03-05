@@ -1,0 +1,53 @@
+body{
+
+.imagen{
+   width: 50%;
+   
+}
+
+}
+
+.block1 {
+
+    padding: 20px;
+}
+
+h1{
+    text-align: center;
+}
+
+p{
+    text-align: center;
+}
+
+em strong{
+    color: blue;
+}
+
+#mision{
+    font-size: 20px;
+}
+
+.diferenciales{
+
+    padding: 30px;
+}
+
+h2{
+    text-align: center;
+}
+
+.items{
+    font-style: italic;
+}
+
+ul{
+    display: inline-block;
+    vertical-align: top;
+    width: 20%;
+    margin-right: 10;
+}
+
+#pq{
+    width: 100%;
+}
